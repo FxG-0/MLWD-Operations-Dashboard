@@ -1,0 +1,6 @@
+{
+  "name": "MLWD Gantt Chart",
+  "description": "An interactive MLWD Gantt Chart dashboard to analyze drilling tool configurations, track metrics, manage abbreviation translations, and parse uploaded Excel logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

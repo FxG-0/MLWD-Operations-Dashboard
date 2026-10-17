@@ -1,0 +1,512 @@
+[
+  {
+    "abbreviation": "AFR",
+    "fullName": "AFR",
+    "category": "Resistivity",
+    "description": "AFR - Azimuthal Focus Resistivity geosteering and formation evaluation tool."
+  },
+  {
+    "abbreviation": "PWD",
+    "fullName": "PWD",
+    "category": "Pressure",
+    "description": "Pressure While Drilling sensor measuring annular and drill pipe pressure."
+  },
+  {
+    "abbreviation": "HCIM",
+    "fullName": "HCIM",
+    "category": "Evaluation",
+    "description": "Sensor module designed for early identification and evaluation of hydrocarbon-bearing zones."
+  },
+  {
+    "abbreviation": "XBAT",
+    "fullName": "XBAT",
+    "category": "Acoustic / Sonic",
+    "description": "Sonic LWD cross-dipole acoustic tool providing high-quality wave data."
+  },
+  {
+    "abbreviation": "ICRUISE",
+    "fullName": "iCruise",
+    "category": "Directional Drilling",
+    "description": "iCruise Rotary Steerable System (RSS) for high-precision directional and horizontal drilling."
+  },
+  {
+    "abbreviation": "IC BM",
+    "fullName": "IC BM",
+    "category": "Directional Drilling",
+    "description": "iCruise Bus Master (IC BM) interface and telemetry tool module."
+  },
+  {
+    "abbreviation": "IC(BM)",
+    "fullName": "IC BM",
+    "category": "Directional Drilling",
+    "description": "iCruise Bus Master (IC BM) interface and telemetry tool module."
+  },
+  {
+    "abbreviation": "ICBM",
+    "fullName": "IC BM",
+    "category": "Directional Drilling",
+    "description": "iCruise Bus Master (IC BM) interface and telemetry tool module."
+  },
+  {
+    "abbreviation": "IC-BM",
+    "fullName": "IC BM",
+    "category": "Directional Drilling",
+    "description": "iCruise Bus Master (IC BM) interface and telemetry tool module."
+  },
+  {
+    "abbreviation": "BST",
+    "fullName": "BaseStar",
+    "category": "Acoustic / Sonic",
+    "description": "BaseStar acoustic logging and caliper sensor providing stress analysis and cement evaluation."
+  },
+  {
+    "abbreviation": "ILS",
+    "fullName": "ILS",
+    "category": "Telemetry / MWD",
+    "description": "ILS - Integrated Logging System / In-line Stabilizer downhole module."
+  },
+  {
+    "abbreviation": "STS",
+    "fullName": "StrataStar",
+    "category": "Mechanics",
+    "description": "StrataStar slotted tension, torque, and downhole mechanical forces sensor sub."
+  },
+  {
+    "abbreviation": "UCS",
+    "fullName": "UCS",
+    "category": "Borehole Caliper",
+    "description": "Ultrasonic Caliper sensor (UCS) measuring borehole diameter and shape."
+  },
+  {
+    "abbreviation": "LCS",
+    "fullName": "LCS",
+    "category": "Nuclear / Density",
+    "description": "Lithology Density and Caliper tool (LCS)."
+  },
+  {
+    "abbreviation": "LST",
+    "fullName": "LithoStar",
+    "category": "Nuclear / Density",
+    "description": "LithoStar high-resolution formation density and lithology determination tool."
+  },
+  {
+    "abbreviation": "GEOTAP",
+    "fullName": "GeoTap",
+    "category": "Pressure",
+    "description": "GeoTap Formation Pressure-While-Drilling provides direct downhole formation pressure testing."
+  },
+  {
+    "abbreviation": "GT",
+    "fullName": "GeoTap",
+    "category": "Pressure",
+    "description": "GeoTap Formation Pressure-While-Drilling provides direct downhole formation pressure testing."
+  },
+  {
+    "abbreviation": "P4M",
+    "fullName": "P4M",
+    "category": "Resistivity",
+    "description": "Multi-frequency, multi-spacing propagation resistivity tool with directional options."
+  },
+  {
+    "abbreviation": "DHS",
+    "fullName": "DHS",
+    "category": "Sensors",
+    "description": "A modular housing containing critical pressure and temperature sensors near the bit."
+  },
+  {
+    "abbreviation": "PCDC",
+    "fullName": "PCDC",
+    "category": "Telemetry / MWD",
+    "description": "Controls mud pulse telemetry and integrates essential directional surveying and gamma sensors."
+  },
+  {
+    "abbreviation": "ADR",
+    "fullName": "ADR",
+    "category": "Resistivity",
+    "description": "Azimuthal Deep Resistivity mapping boundary distances up to 18 feet."
+  },
+  {
+    "abbreviation": "BASE",
+    "fullName": "BaseStar",
+    "category": "Acoustic / Sonic",
+    "description": "BaseStar acoustic logging and caliper sensor providing stress analysis and cement evaluation."
+  },
+  {
+    "abbreviation": "RST",
+    "fullName": "ResiStar",
+    "category": "Resistivity",
+    "description": "ResiStar propagation resistivity sensor providing robust logs in all mud types."
+  },
+  {
+    "abbreviation": "UC",
+    "fullName": "UCS",
+    "category": "Borehole Caliper",
+    "description": "Ultrasonic Caliper sensor (UCS) measuring borehole diameter and shape."
+  },
+  {
+    "abbreviation": "GWD",
+    "fullName": "GWD",
+    "category": "Directional Drilling",
+    "description": "Gyro While Drilling tool providing real-time high-precision surveys."
+  },
+  {
+    "abbreviation": "DGR",
+    "fullName": "DGR",
+    "category": "Sensors",
+    "description": "Dual Gamma Ray tool with two detectors for clay-volume calculation."
+  },
+  {
+    "abbreviation": "IC",
+    "fullName": "iCruise",
+    "category": "Directional Drilling",
+    "description": "iCruise Rotary Steerable System (RSS) for high-precision directional and horizontal drilling."
+  },
+  {
+    "abbreviation": "BASESTAR",
+    "fullName": "BaseStar",
+    "category": "Acoustic / Sonic",
+    "description": "BaseStar acoustic logging and caliper sensor providing stress analysis and cement evaluation."
+  },
+  {
+    "abbreviation": "RESISTAR",
+    "fullName": "ResiStar",
+    "category": "Resistivity",
+    "description": "ResiStar propagation resistivity sensor providing robust logs in all mud types."
+  },
+  {
+    "abbreviation": "RS",
+    "fullName": "ResiStar",
+    "category": "Resistivity",
+    "description": "ResiStar propagation resistivity sensor providing robust logs in all mud types."
+  },
+  {
+    "abbreviation": "LITHO",
+    "fullName": "LithoStar",
+    "category": "Nuclear / Density",
+    "description": "LithoStar high-resolution formation density and lithology determination tool."
+  },
+  {
+    "abbreviation": "BATT",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "BATTERY",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "BATT1",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "BATT2",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "ISTARBATT",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "ISTARBATT1",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "ISTARBATT2",
+    "fullName": "Battery",
+    "category": "Power",
+    "description": "Downhole lithium battery pack providing reliable power to the LWD string."
+  },
+  {
+    "abbreviation": "HAL50ILS",
+    "fullName": "ILS",
+    "category": "Telemetry / MWD",
+    "description": "ILS - Integrated Logging System / In-line Stabilizer downhole module."
+  },
+  {
+    "abbreviation": "LC",
+    "fullName": "LCS",
+    "category": "Nuclear / Density",
+    "description": "Lithology Density and Caliper tool (LCS)."
+  },
+  {
+    "abbreviation": "USC",
+    "fullName": "UCS",
+    "category": "Borehole Caliper",
+    "description": "Ultrasonic Caliper sensor (UCS) measuring borehole diameter and shape."
+  },
+  {
+    "abbreviation": "ALD",
+    "fullName": "ALD",
+    "category": "Sensors",
+    "description": "Azimuthal Lithodensity tool providing real-time bulk density and caliper logs."
+  },
+  {
+    "abbreviation": "DUMMYFLEX",
+    "fullName": "Dummy Flex",
+    "category": "Mechanics",
+    "description": "Dummy flex sub or spacer sub used in LWD drill string configuration."
+  },
+  {
+    "abbreviation": "DF",
+    "fullName": "Dummy Flex",
+    "category": "Mechanics",
+    "description": "Dummy flex sub or spacer sub used in LWD drill string configuration."
+  },
+  {
+    "abbreviation": "CALIPER",
+    "fullName": "BST Caliper",
+    "category": "Borehole Caliper",
+    "description": "Caliper sensor logging borehole dimensions and volume calculations."
+  },
+  {
+    "abbreviation": "PST",
+    "fullName": "PulseStar",
+    "category": "Telemetry / MWD",
+    "description": "High-resolution mud pulse telemetry transmitter."
+  },
+  {
+    "abbreviation": "PULSESTAR",
+    "fullName": "PulseStar",
+    "category": "Telemetry / MWD",
+    "description": "High-resolution mud pulse telemetry transmitter."
+  },
+  {
+    "abbreviation": "GYROSTAR",
+    "fullName": "GyroStar",
+    "category": "Directional Drilling",
+    "description": "Precision gyroscopic directional logging sensor system."
+  },
+  {
+    "abbreviation": "ESTX",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry transmitter sub."
+  },
+  {
+    "abbreviation": "ESTX1",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry transmitter sub 1."
+  },
+  {
+    "abbreviation": "ESTX2",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry transmitter sub 2."
+  },
+  {
+    "abbreviation": "FDC",
+    "fullName": "FDC",
+    "category": "Nuclear / Density",
+    "description": "Formation Density Caliper tool for porosity and borehole diameter measurement."
+  },
+  {
+    "abbreviation": "PCGK",
+    "fullName": "PCGK",
+    "category": "Sensors",
+    "description": "Power-Pulse Control and Gamma Ray tool for directional/gamma measurements."
+  },
+  {
+    "abbreviation": "BST CALIPER",
+    "fullName": "BST Caliper",
+    "category": "Borehole Caliper",
+    "description": "Caliper sensor logging borehole dimensions and volume calculations."
+  },
+  {
+    "abbreviation": "BSTCALIPER",
+    "fullName": "BST Caliper",
+    "category": "Borehole Caliper",
+    "description": "Caliper sensor logging borehole dimensions and volume calculations."
+  },
+  {
+    "abbreviation": "PULSAR",
+    "fullName": "Pulsar",
+    "category": "Telemetry / MWD",
+    "description": "High-resolution pulsar telemetry and logging tool."
+  },
+  {
+    "abbreviation": "FST",
+    "fullName": "FlowStar",
+    "category": "Fluid Mechanics",
+    "description": "FlowStar high-accuracy flow and fluid dynamics measurement sensor."
+  },
+  {
+    "abbreviation": "EM BATT",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EMBATT",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATTERY",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EMBATTERY",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATTERIES",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EMBATTERIES",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATT1",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATT2",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATT 1",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATT 2",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM-BATT",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM-BATTERY",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM-BATTERIES",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EM BATT PACK",
+    "fullName": "EM Battery",
+    "category": "Power",
+    "description": "Electromagnetic downhole lithium battery pack supplying high-capacity power."
+  },
+  {
+    "abbreviation": "EarthStar",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "EarthStar electromagnetic telemetry sub system."
+  },
+  {
+    "abbreviation": "ES",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "EarthStar electromagnetic telemetry sub system."
+  },
+  {
+    "abbreviation": "ES TX",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry transmitter sub."
+  },
+  {
+    "abbreviation": "ES RX",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub."
+  },
+  {
+    "abbreviation": "ESRX",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub."
+  },
+  {
+    "abbreviation": "ESRX1",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub 1."
+  },
+  {
+    "abbreviation": "ESRX2",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub 2."
+  },
+  {
+    "abbreviation": "ESRCVR",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub."
+  },
+  {
+    "abbreviation": "ESRCVR1",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub 1."
+  },
+  {
+    "abbreviation": "ESRCVR2",
+    "fullName": "EarthStar",
+    "category": "Telemetry / MWD",
+    "description": "Electromagnetic telemetry receiver sub 2."
+  },
+  {
+    "abbreviation": "FLOWSTAR",
+    "fullName": "FlowStar",
+    "category": "Fluid Mechanics",
+    "description": "FlowStar high-accuracy flow and fluid dynamics measurement sensor."
+  },
+  {
+    "abbreviation": "FLOW STAR",
+    "fullName": "FlowStar",
+    "category": "Fluid Mechanics",
+    "description": "FlowStar high-accuracy flow and fluid dynamics measurement sensor."
+  },
+  {
+    "abbreviation": "FLOW-STAR",
+    "fullName": "FlowStar",
+    "category": "Fluid Mechanics",
+    "description": "FlowStar high-accuracy flow and fluid dynamics measurement sensor."
+  },
+  {
+    "abbreviation": "FLOW",
+    "fullName": "FlowStar",
+    "category": "Fluid Mechanics",
+    "description": "FlowStar high-accuracy flow and fluid dynamics measurement sensor."
+  }
+]
